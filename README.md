@@ -1,2 +1,2 @@
 # snake_game 
-Day 20 - 100 days of python
+Day 20,21 - 100 days of python
